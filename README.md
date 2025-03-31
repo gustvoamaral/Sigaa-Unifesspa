@@ -17,11 +17,11 @@
 
 📂 Estrutura do Projeto
 
-```📂 src/
+``📂 src/
  ├── 📂 css/
  │   ├── styles.css   # Arquivo principal de estilos
  ├── index.html       # Página inicial
-```
+``
 🛠️ Como Rodar o Projeto
 
 Clone este repositório:
