@@ -15,3 +15,19 @@
 - Seções bem organizadas para facilitar o acesso ao sistema
 
 
+📂 Estrutura do Projeto
+
+```📂 src/
+ ├── 📂 css/
+ │   ├── styles.css   # Arquivo principal de estilos
+ ├── index.html       # Página inicial```
+
+🛠️ Como Rodar o Projeto
+
+Clone este repositório:
+
+```git clone https://github.com/seu-usuario/sigaa-unifesspa.git```
+
+Acesse a pasta do projeto:
+
+```cd sigaa-unifesspa```
