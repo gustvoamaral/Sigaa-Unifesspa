@@ -4,8 +4,6 @@
 
 - CSS
 
-- Google Fonts
-
 📋 Funcionalidades
 
 - Layout responsivo para desktops e dispositivos móveis
