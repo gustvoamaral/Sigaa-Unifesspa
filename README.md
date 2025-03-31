@@ -16,7 +16,6 @@
 📂 Estrutura do Projeto
 
 `````📂 src/
-     📂 src/imagens
  ├── 📂 css/
  │   ├── styles.css   # Arquivo principal de estilos
  ├── index.html       # Página inicial
