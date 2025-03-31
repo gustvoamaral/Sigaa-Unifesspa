@@ -1,0 +1,163 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+.container{
+width: 100%;
+
+}
+.topo{
+color: white;
+background-color: #394879;
+width: 100%;
+
+}
+.titulo{
+display: flex;
+flex-direction: row;
+align-items: center;
+text-align: center;
+}
+
+.titulo h1{
+    margin-left: 25px;
+    font-size: 13px;
+
+}
+.titulo h2{
+    margin-left: 10px;
+    font-size: 13px;
+    
+}
+.amarelo{
+    background-color: #f3bc6a;
+    width: 100%;
+    height: 3px;
+}
+.azul{
+    background-color: #C4D2EB;
+    height: 50px;
+    
+}
+.atencao{
+    background-color: #EDF1F8;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    font-size: 15px;
+}
+.atencao p{
+margin-bottom: 24px;
+
+}
+.atencao strong{
+    margin-top: 10px;
+    color: red;
+}
+.sistema{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    text-align: center;
+    margin-left: 100px;
+    margin-right: 55px;
+    margin-top: 40px;
+
+}
+.sistema a{
+    text-decoration: none;
+    }
+
+.sistema1 p{
+color: #404E82;
+font-weight: bold;
+margin-top: 5px;
+margin-bottom: 1px;
+
+}   
+.sistema1{
+    margin-top: 10px;
+    margin-left: 3px;
+    margin-bottom: 10px;
+    background-color: #edf6f8;
+    width: 100%;
+    height: 70px;
+}
+
+.info{
+    margin: 20px;
+    align-items: center;
+    text-align: center;
+}
+.info a{
+    text-decoration: none;
+    color: #382292;
+    font-weight: bold;
+}
+.entrar{
+    text-align: center;
+    align-items: center;
+}
+.entrar h3{
+    color: #404E82;
+    font-weight: bold;
+    background-color: #C4D2EB;
+    margin-left: 430px;
+    margin-right: 600px;
+}
+.form{
+    padding-top: 14px;
+    background-color: #F9FBFD;
+    border: 2px solid #C4D2EB;
+    margin-left: 430px;
+    margin-right: 430px;
+    
+}
+.form input{
+    margin-bottom: 3px;
+}
+.form button{
+    padding-right: 5px;
+    padding-left: 5px;
+}
+.professor-funcionario{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    text-align: center;
+    margin-top: 20px;
+    margin-left: 100px;
+    margin-right: 30px
+}
+
+.professor-funcionario a{
+    color: #404E82;
+    font-weight: bold;
+    text-decoration: none;
+
+}
+.aluno {
+    margin-left: 150px;
+    margin-right: 250px;
+
+}
+
+.rodape-informacoes{
+    color: white;
+    background-color: #404E82;
+    align-items: center;
+    text-align: center;
+}
+
+.icon2 img{
+    height: 15px;
+    width: 15px; 
+}
+.icon img{
+height: 15px;
+width: 15px;
+}
