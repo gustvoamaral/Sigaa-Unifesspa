@@ -14,10 +14,4 @@
 
 - Seções bem organizadas para facilitar o acesso ao sistema
 
-📂 Estrutura do Projeto
-
-📂 src/
- ├── 📂 css/
- │   ├── styles.css   # Arquivo principal de estilos
- ├── index.html       # Página inicial
 
