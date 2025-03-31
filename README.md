@@ -20,8 +20,8 @@
 ```📂 src/
  ├── 📂 css/
  │   ├── styles.css   # Arquivo principal de estilos
- ├── index.html       # Página inicial```
-
+ ├── index.html       # Página inicial
+```
 🛠️ Como Rodar o Projeto
 
 Clone este repositório:
@@ -29,5 +29,6 @@ Clone este repositório:
 ```git clone https://github.com/seu-usuario/sigaa-unifesspa.git```
 
 Acesse a pasta do projeto:
-
-```cd sigaa-unifesspa```
+```
+cd sigaa-unifesspa
+```
